@@ -1,4 +1,10 @@
+This repository demonstrates the inability to run tests for an Expo project in an NX monorepo.
 
+To reproduce:
+
+    nx test foo
+
+---
 
 # ExpoTests
 
