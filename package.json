@@ -44,6 +44,7 @@
     "eslint-plugin-react-hooks": "4.2.0",
     "expo-cli": "3.28.5",
     "jest": "27.0.3",
+    "jest-expo": "^42.1.0",
     "jest-react-native": "18.0.0",
     "nx-react-native-expo": "0.0.9",
     "prettier": "^2.3.1",
